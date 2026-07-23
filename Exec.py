@@ -54,7 +54,7 @@ def banner():
    ╚═════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚══╝╚══════╝╚══════╝{C.RESET}
 {C.CYAN}  CVE-2026-41940 & CVE-2026-41948 — cPanel & WHM Auth Bypass{C.RESET}
 {C.DIM}  Mode: Scanner | Exploit | Interactive Shell | Mass Scan{C.RESET}
-{C.RED}  In-The-Wild | CVSS 10.0 | By pwdnx (@AnonSn4pz){C.RESET}
+{C.RED}  In-The-Wild | CVSS 10.0 | By dann3xplo1t{C.RESET}
 """)
 
 
